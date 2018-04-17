@@ -6,5 +6,5 @@
 
 ## rest topics
 
-* [About](rest-topics/about.md)
+* [About](about.md)
 
