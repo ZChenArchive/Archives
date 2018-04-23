@@ -2,9 +2,8 @@
 
 * [README](README.md)
 
-## Angular
-
 ## rest topics
 
-* [About](about.md)
+* [About](rest-topics/about.md)
+* [Markdown Syntax](rest-topics/markdown-syntax.md)
 
